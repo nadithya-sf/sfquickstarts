@@ -70,7 +70,7 @@ AUTO_SUSPEND = 60
 
 ### Load data to S3
 
-- Download the zip file from [here](https://drive.google.com/file/d/1zU7onFgX0TaVQDq_vN-IXh6rW-5YDzss/view?usp=share_link)
+- Download the zip file from [here](https://drive.google.com/drive/folders/1w5qm8qECpOOxDqrSR7y_gHhzWZfCgFuI?usp=sharing)
 - If you are using a Mac, **'.DS_Store'** files are auto generated into the folder you unzip. You need to delete these files before you upload to S3
     - Navigate to the folder **truck_reviews**.
     - Open up terminal from this folder.
